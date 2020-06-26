@@ -7,7 +7,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "https://article-irfan.herokuapp.com",
-  origin :"http://stupendous-goldfish.surge.sh"
+  origin :"http://recondite-notebook.surge.sh"
 };
 
 
